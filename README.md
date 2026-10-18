@@ -1,23 +1,95 @@
-<h1 align="center">Hi 👋, I'm Mayank Salunkhe</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+ <h1 align="center">Hey 👋, I'm Mayank Salunkhe</h1>
+<h3 align="center">🤖 AI/ML Engineer in the Making | GenAI & Agentic AI Enthusiast</h3>
 
-- 🔭 I’m currently working on **Intelligent Document Question-Answering System using RAG & LLM**
-
-- 🌱 I’m currently learning **Agentic AI, GenAI**
-
-- 💬 Ask me about **Python, AI/ML**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mayanksalunkhe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayanksalunkhe_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mayanksalunkhe_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mayanksalunkhe_1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Exploring+RAG+%26+Large+Language+Models;Learning+Agentic+AI+%26+Generative+AI;Turning+Ideas+into+Reality+with+Python" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/mayank-techcode">
+    <img src="https://img.shields.io/badge/GitHub-mayank--techcode-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/@mayanksalunkhe_1">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/>
+  </a>
+  <a href="https://instagram.com/mayanksalunkhe_">
+    <img src="https://img.shields.io/badge/Instagram-Profile-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-techcode&show_icons=true&locale=en&layout=compact" alt="mayank-techcode" /></p>
+--- 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-techcode&show_icons=true&locale=en" alt="mayank-techcode" /></p>
+## 🚀 What I'm Working On
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-techcode&" alt="mayank-techcode" /></p>
+- 🔭 Building an **Intelligent Document Question-Answering System using RAG & LLMs**
+- 🌱 Exploring **Agentic AI, Generative AI, and LLM-based applications**
+- 💬 Ask me about **Python, AI/ML, and intelligent systems**
+- 🎯 Goal: Build practical, scalable AI applications that solve real-world problems.
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" alt="Python, C, C++, Java"/>
+</p>
+
+### 🧠 AI / ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="TensorFlow, OpenCV, Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Seaborn"/>
+</p>
+
+### 🌐 Web Development & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,spring,html,css&theme=dark" alt="Flask, Spring, HTML, CSS"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F7FF" alt="REST APIs"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,docker,git,linux,figma&theme=dark" alt="MySQL, Oracle, Docker, Git, Linux, Figma"/>
+</p>
+
+### 🤖 AI Interests
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=00F7FF" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Large_Language_Models-111827?style=for-the-badge&logoColor=00F7FF" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge&logoColor=A78BFA" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge&logoColor=A78BFA" alt="Agentic AI"/>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayank-techcode&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-techcode&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=mayank-techcode&theme=transparent&hide_border=true&ring=00F7FF&fire=A78BFA&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/mayank-techcode">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Repositories"/>
+  </a>
+  <a href="https://www.hackerrank.com/@mayanksalunkhe_1">
+    <img src="https://img.shields.io/badge/Let's_Code-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>“Building intelligent solutions, one experiment at a time.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=100&section=footer" alt="Footer"/>
+</p>
