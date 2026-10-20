@@ -52,7 +52,8 @@
 ### 🗄️ Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,docker,git,linux,figma&theme=dark" alt="MySQL, Oracle, Docker, Git, Linux, Figma"/>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,linux,figma&theme=dark" alt="MySQL, Docker, Git, Linux, Figma"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
 ### 🤖 AI Interests
