@@ -19,22 +19,22 @@
 
 --- 
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🔭 Building an **Intelligent Document Question-Answering System using RAG & LLMs**
-- 🌱 Exploring **Agentic AI, Generative AI, and LLM-based applications**
-- 💬 Ask me about **Python, AI/ML, and intelligent systems**
-- 🎯 Goal: Build practical, scalable AI applications that solve real-world problems.
+- Building an **Intelligent Document Question-Answering System using RAG & LLMs**
+- Exploring **Agentic AI, Generative AI, and LLM-based applications**
+- Ask me about **Python, AI/ML, and intelligent systems**
+- Goal: Build practical, scalable AI applications that solve real-world problems.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" alt="Python, C, C++, Java"/>
 </p>
 
-### 🧠 AI / ML & Data Science
+### AI / ML & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="TensorFlow, OpenCV, Scikit-learn"/>
@@ -42,21 +42,21 @@
   <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Seaborn"/>
 </p>
 
-### 🌐 Web Development & Backend
+### Web Development & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=flask,spring,html,css&theme=dark" alt="Flask, Spring, HTML, CSS"/>
   <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F7FF" alt="REST APIs"/>
 </p>
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,docker,git,linux,figma&theme=dark" alt="MySQL, Docker, Git, Linux, Figma"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
-### 🤖 AI Interests
+### AI Interests
 
 <p>
   <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=00F7FF" alt="RAG"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge&logoColor=A78BFA" alt="Agentic AI"/>
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayank-techcode&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
@@ -76,7 +76,7 @@
   <img width="70%" src="https://streak-stats.demolab.com?user=mayank-techcode&theme=transparent&hide_border=true&ring=00F7FF&fire=A78BFA&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/mayank-techcode">
