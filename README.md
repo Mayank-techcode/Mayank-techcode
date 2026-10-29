@@ -1,4 +1,4 @@
- <h1 align="center">Hey 👋, I'm Mayank Salunkhe</h1>
+<h1 align="center">Hey 👋, I'm Mayank Salunkhe</h1>
 <h3 align="center">🤖 AI/ML Engineer in the Making | GenAI & Agentic AI Enthusiast</h3>
 
 <p align="center">
@@ -9,8 +9,8 @@
   <a href="https://github.com/mayank-techcode">
     <img src="https://img.shields.io/badge/GitHub-mayank--techcode-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.hackerrank.com/@mayanksalunkhe_1">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/>
+  <a href="https://www.linkedin.com/in/mayank-salunkhe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/mayanksalunkhe_">
     <img src="https://img.shields.io/badge/Instagram-Profile-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
@@ -21,9 +21,8 @@
 
 ## What I'm Working On
 
-- Building an **Intelligent Document Question-Answering System using RAG & LLMs**
 - Exploring **Agentic AI, Generative AI, and LLM-based applications**
-- Ask me about **Python, AI/ML, and intelligent systems**
+- Ask me about **Python, AI/ML**
 - Goal: Build practical, scalable AI applications that solve real-world problems.
 
 ## Tech Stack
@@ -74,17 +73,6 @@
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=mayank-techcode&theme=transparent&hide_border=true&ring=00F7FF&fire=A78BFA&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</p>
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://github.com/mayank-techcode">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Repositories"/>
-  </a>
-  <a href="https://www.hackerrank.com/@mayanksalunkhe_1">
-    <img src="https://img.shields.io/badge/Let's_Code-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/>
-  </a>
 </p>
 
 <p align="center">
