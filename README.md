@@ -67,7 +67,6 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayank-techcode&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-techcode&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
